@@ -1,0 +1,32 @@
+.conteudo {
+    -fx-background-color: black; /*cor da tela ao fundo*/
+    -fx-font-family: "Raleway"; /*nome da fonte*/
+}
+
+.titulo {
+    -fx-text-fill: #48b2ee; /*cor da fonte*/
+    -fx-font-size: 36px;
+}
+
+.numero {
+    -fx-text-fill: #eee; /*cor da fonte*/
+    -fx-font-size: 28px;
+}
+
+.botoes {
+    -fx-background-color: #fff;
+    -fx-text-fill: #48b2ee;
+    -fx-font-size: 24px;
+    -fx-min-width: 60px;/*largura */
+    -fx-min-height: 60px;/*altura*/
+    -fx-background-radius: 30px;/*deixar botao redondo coloca o tamanho do raio*/
+}
+
+.verde{
+    -fx-text-fill: #228e05;
+
+}
+.vermelho{
+    -fx-text-fill: #db0c0c;
+
+}
